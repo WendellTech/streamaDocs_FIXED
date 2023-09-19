@@ -15,4 +15,5 @@ The site is automatically built from the latest master and deployed to streamase
 You can build locally with the normal hugo commands. 
 
 `hugo && miniserve public --index index.html`
+or
 `hugo`
