@@ -13,3 +13,5 @@ Note that this repository contains solely the documentation for Streama. For con
 The site is automatically built from the latest master and deployed to streamaserver.org.
 
 You can build locally with the normal hugo commands. 
+
+`hugo && miniserve public --index index.html`
